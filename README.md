@@ -7,7 +7,7 @@ Software Developer with BSc in Computer Science
 I have been learning to code for four years now, and I have found my passion in iOS Development and Artificial Intelligence.
 
 * 🌍  I'm based in London, UK
-* 🖥️  See my portfolio at [MyPortfolio](http://juresunic.com)
+* 🖥️  See my portfolio at [MyPortfolio](http://juresunic.com)  (it is in development at the moment)
 * ✉️  You can contact me at [juresunic@hotmail.com](mailto:juresunic@hotmail.com)
 * 🧠  I'm learning Swift and Python programming languages
 * 🤝  I'm open to collaborating on Interesting projects related to iOS development and/or AI Python projects
