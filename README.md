@@ -1,17 +1,13 @@
 Hi 👋 My name is Jure Sunic
 ===========================
 
-Software Developer with BSc in Computer Science
+AI Engineer with MSc in AI
 -----------------------------------------------
 
-I have been learning to code for four years now, and I have found my passion in iOS Development and Artificial Intelligence.
-
-* 🌍  I'm based in London, UK
-* 🖥️  See my portfolio at [MyPortfolio](https://jure-sunic.netlify.app/)  
+* 🌍  I'm based in Zagreb, HR
 * ✉️  You can contact me at [juresunic@hotmail.com](mailto:juresunic@hotmail.com)
-* 🧠  I'm learning Swift and Python programming languages
-* 🤝  I'm open to collaborating on Interesting projects related to iOS development and/or AI Python projects
-* ⚡  Fun fact: Most programmers enjoy caffeine while coding, drinking 2-6 coffees a day. What a tasteful obsession!
+* 🧠  I'm learning Python programming languages
+* 🤝  I'm open to collaborating on Interesting projects related to AI Python 
 
 ### Skills
 
